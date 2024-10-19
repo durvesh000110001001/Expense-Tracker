@@ -25,7 +25,7 @@ The Expense Tracker is a Python-based desktop application that uses Tkinter for 
 
 Clone the repository:
 
-git clone https://github.com/durvesh000110001001/expense-tracker.git 
+git clone https://github.com/durvesh000110001001/Expense-Tracker.git 
 
 cd expense-tracker
 
